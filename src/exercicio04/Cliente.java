@@ -18,6 +18,6 @@ public class Cliente extends Pessoa {
     }
 
     public void exibirDados() {
-        System.out.println((this.getNome(), this.getIdade());
+       // System.out.println((this.getNome(), this.getIdade());
     }
 }
